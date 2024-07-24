@@ -663,6 +663,11 @@ img {
     margin-top: 0;
   }
 
+  .section {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
   .menu-button {
     color: #fff;
   }
@@ -880,6 +885,7 @@ img {
     grid-column-gap: 6px;
     grid-row-gap: 6px;
     flex-flow: column;
+    margin-left: 10px;
   }
 }
 
